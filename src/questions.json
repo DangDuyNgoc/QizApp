@@ -1,0 +1,1019 @@
+[
+  {
+    "question": "Which of the following is a common reason for errors occurring in software development?",
+    "options": {
+      "A": "Overabundance of resources",
+      "B": "Time pressure on the development team",
+      "C": "Perfect communication between team members",
+      "D": "Simple, straightforward project requirements"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What can be a consequence of delivering a software system that only addresses defects but fails to meet user expectations?",
+    "options": {
+      "A": "Users will find the system very useful regardless of its functionality.",
+      "B": "The system will be successful in the market regardless of defects.",
+      "C": "Users may still be dissatisfied because the system does not solve their problems or meet their requirements.",
+      "D": "The system will automatically improve over time with user feedback."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What type of error is described as a grammatical mistake in the code?",
+    "options": {
+      "A": "Logical error",
+      "B": "Syntax error",
+      "C": "Runtime error",
+      "D": "Compilation error"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "When should testing activities ideally begin in the software development life cycle?",
+    "options": {
+      "A": "After the software is fully developed",
+      "B": "During the deployment phase",
+      "C": "As early as possible in the development life cycle",
+      "D": "When the code is complete"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why should testers use risk analysis and set priorities instead of performing exhaustive testing?",
+    "options": {
+      "A": "Exhaustive testing guarantees that all defects will be found.",
+      "B": "Exhaustive testing is always faster and more efficient.",
+      "C": "Risk analysis helps focus testing efforts on the most critical areas, making testing more efficient and effective.",
+      "D": "Risk analysis is only used when testing is not possible."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What should testing activities be focused on throughout the software development life cycle?",
+    "options": {
+      "A": "Random testing with no specific goals.",
+      "B": "Testing as many features as possible without any priorities.",
+      "C": "Defined objectives that align with the project goals and risk areas.",
+      "D": "Testing only the final product without considering the development process."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What does the principle of defect clustering state?",
+    "options": {
+      "A": "Defects are evenly distributed across all modules in the software.",
+      "B": "A small number of modules or components contain most of the defects.",
+      "C": "Defects are more likely to be found in the least critical parts of the software.",
+      "D": "All defects are distributed randomly throughout the software."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct sequence of events from error to failure in software development?",
+    "options": {
+      "A": "Failure → Error → Fault",
+      "B": "Fault → Failure → Error",
+      "C": "Fault → Error → Failure",
+      "D": "Error → Fault → Failure"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What role does software testing play in reducing risk related to software quality?",
+    "options": {
+      "A": "It eliminates all risks associated with software development.",
+      "B": "It reduces the level of risk by identifying potential issues and ensuring compliance with quality standards.",
+      "C": "It increases the level of risk by delaying the release.",
+      "D": "It is not concerned with risk reduction."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What differentiates a fault from a failure in software?",
+    "options": {
+      "A": "A fault is harmless, while a failure is beneficial.",
+      "B": "A fault is the same as a failure.",
+      "C": "A fault becomes a failure when it is activated or executed.",
+      "D": "A failure is always present, while a fault is only temporary."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the key difference between testing safety-critical software and an e-commerce site?",
+    "options": {
+      "A": "Safety-critical software testing focuses heavily on ensuring no failures occur that could harm users, whereas e-commerce testing may focus more on usability and transaction processing.",
+      "B": "E-commerce sites require more safety testing than safety-critical software.",
+      "C": "Both types of software are tested in exactly the same way.",
+      "D": "E-commerce testing is generally more complex and time-consuming than safety-critical software testing."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a critical aspect of software development beyond defect resolution?",
+    "options": {
+      "A": "Reducing the overall code size.",
+      "B": "Increasing the number of features in the system.",
+      "C": "Ensuring that the system is visually appealing.",
+      "D": "Making sure the system fulfills users' needs and expectations."
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is one of the primary objectives of software testing?",
+    "options": {
+      "A": "To identify and reveal as many errors as possible.",
+      "B": "To increase the software’s size.",
+      "C": "To ensure the development team meets deadlines.",
+      "D": "To limit user feedback."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following statements is true regarding software faults?",
+    "options": {
+      "A": "All faults result in immediate failures.",
+      "B": "Faults are always visible to users.",
+      "C": "Some faults remain dormant in the code and may never cause failures.",
+      "D": "Faults are only present in the code during the testing phase."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What factor primarily drives the differences in testing approaches between various software contexts?",
+    "options": {
+      "A": "The programming language used.",
+      "B": "The software's purpose, associated risks, and the potential impact of defects.",
+      "C": "The availability of testers.",
+      "D": "The software's graphical user interface (GUI)."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why do software defects persist even when developers are experienced?",
+    "options": {
+      "A": "Defects are only introduced by inexperienced developers.",
+      "B": "Defects are inevitable because software is written by people, who are prone to making mistakes.",
+      "C": "Defects are eliminated by advanced coding languages.",
+      "D": "Defects do not occur if the software is simple."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How can testers overcome the pesticide paradox?",
+    "options": {
+      "A": "By reducing the number of test cases.",
+      "B": "By consistently running the same tests without any changes.",
+      "C": "By regularly reviewing and revising test cases, and introducing new and different tests.",
+      "D": "By ignoring areas of the software that have already been tested."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What does exhaustive testing involve?",
+    "options": {
+      "A": "Testing only after the software is deployed.",
+      "B": "Testing everything, including all preconditions and combinations of inputs.",
+      "C": "Testing only the most important features of the software.",
+      "D": "Testing just a small subset of possible inputs."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the likely outcome if test cases are not reviewed and revised regularly?",
+    "options": {
+      "A": "Testing will become more efficient over time.",
+      "B": "New bugs will be found more frequently.",
+      "C": "The same set of test cases will eventually fail to identify new defects.",
+      "D": "The software will be guaranteed to be defect-free."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How does the increasing complexity of software affect the need for testing?",
+    "options": {
+      "A": "Complexity reduces the likelihood of defects.",
+      "B": "Complexity makes testing less important as software grows.",
+      "C": "Complexity increases the chances of defects, making thorough testing more necessary.",
+      "D": "Complexity makes software development faster and easier."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What strategy should testers use to prevent the effects of the pesticide paradox?",
+    "options": {
+      "A": "Keep reusing the same test cases indefinitely.",
+      "B": "Increase the number of identical test cases.",
+      "C": "Continuously create new tests and adjust existing ones to cover different aspects of the software.",
+      "D": "Stop testing once no new defects are found with current tests."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why is testing a crucial part of software development despite the presence of defects?",
+    "options": {
+      "A": "Testing is unnecessary if defects are expected.",
+      "B": "Testing helps identify and fix defects to improve software quality and reliability.",
+      "C": "Testing only verifies the appearance of the software.",
+      "D": "Testing is only useful for small projects."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is an error in software development?",
+    "options": {
+      "A": "A successful compilation of code.",
+      "B": "A human action that produces an incorrect result.",
+      "C": "The final product meeting all user requirements.",
+      "D": "A feature request that was not implemented."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In which scenario would usability testing likely be a higher priority?",
+    "options": {
+      "A": "Developing software for controlling nuclear reactors.",
+      "B": "Developing a heart monitoring system.",
+      "C": "Developing an e-commerce website for online shopping.",
+      "D": "Developing an autopilot system for airplanes."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is true regarding the relationship between software errors and software faults?",
+    "options": {
+      "A": "All software errors will definitely lead to software faults.",
+      "B": "Software errors never cause software faults.",
+      "C": "Only some software errors may lead to software faults.",
+      "D": "Software errors and software faults are the same thing."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why is it insufficient to only focus on finding and fixing defects in software development?",
+    "options": {
+      "A": "Because a system can still be valuable even if it has defects.",
+      "B": "Because fixing defects does not ensure that the system is usable or meets user needs and expectations.",
+      "C": "Because defects are not relevant to user satisfaction.",
+      "D": "Because defects automatically lead to user satisfaction."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How does software testing help with decision-making for stakeholders?",
+    "options": {
+      "A": "By providing a summary of marketing strategies.",
+      "B": "By delivering detailed reports on defects and quality, aiding in informed decision-making.",
+      "C": "By focusing only on the visual design of the software.",
+      "D": "By reducing the need for further testing."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is it important to start testing activities early in the development life cycle?",
+    "options": {
+      "A": "Early testing can help identify defects when they are easier and less costly to fix.",
+      "B": "Early testing is unnecessary since all issues can be fixed later.",
+      "C": "Early testing should only focus on minor issues.",
+      "D": "Early testing is only needed if there are no defined objectives."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How should the principle of defect clustering influence testing strategies?",
+    "options": {
+      "A": "Test all modules with equal intensity regardless of defect concentration.",
+      "B": "Focus more intensive testing on the small number of modules where defects are likely to be concentrated.",
+      "C": "Ignore modules that have already been identified as containing defects.",
+      "D": "Distribute testing resources evenly without considering defect clustering."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following best describes a software fault?",
+    "options": {
+      "A": "An unexpected feature that enhances the user experience.",
+      "B": "A deviation from the original project schedule.",
+      "C": "A manifestation of an error in the software.",
+      "D": "The successful execution of a software process."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In what way can the complexity of code and design contribute to software errors?",
+    "options": {
+      "A": "Complexity simplifies problem-solving.",
+      "B": "Complexity makes the software easier to maintain.",
+      "C": "Complexity increases the likelihood of errors due to the challenge of managing intricate systems.",
+      "D": "Complexity has no impact on the occurrence of errors."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How can miscommunication between project participants lead to errors?",
+    "options": {
+      "A": "Miscommunication ensures that everyone understands the requirements perfectly.",
+      "B": "Miscommunication can lead to misunderstandings about requirements and design.",
+      "C": "Miscommunication reduces the complexity of the project.",
+      "D": "Miscommunication usually results in higher software quality."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why might a software error not result in a software fault?",
+    "options": {
+      "A": "The error might be in a part of the code that is never executed.",
+      "B": "All errors always lead to faults; there are no exceptions.",
+      "C": "The error automatically corrects itself during execution."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a limitation of software testing?",
+    "options": {
+      "A": "Testing can identify all defects in the software.",
+      "B": "Testing can show that defects are present, but cannot prove that there are no defects.",
+      "C": "Testing guarantees that the software is completely defect-free.",
+      "D": "Testing is unnecessary if the code is written correctly."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which aspect of software quality is emphasized in the IEEE definition?",
+    "options": {
+      "A": "Aesthetic appeal.",
+      "B": "Performance efficiency.",
+      "C": "Compliance with requirements.",
+      "D": "User satisfaction."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "When does a fault in software lead to a failure in operation?",
+    "options": {
+      "A": "When the software is correctly executed.",
+      "B": "When the fault is identified and removed.",
+      "C": "When the fault is activated or executed.",
+      "D": "When the error is ignored."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why might human error be a frequent cause of software issues?",
+    "options": {
+      "A": "Humans are naturally error-prone.",
+      "B": "Software automatically corrects all human mistakes.",
+      "C": "Teams are always highly experienced.",
+      "D": "Humans never make mistakes in a professional setting."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The IEEE definition of software quality primarily focuses on which of the following?",
+    "options": {
+      "A": "The system's ability to meet user expectations.",
+      "B": "The cost-effectiveness of the software.",
+      "C": "The degree to which specified requirements are met.",
+      "D": "The flexibility of the software design."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "According to the IEEE, what does software quality refer to?",
+    "options": {
+      "A": "The usability of a system.",
+      "B": "The degree to which a system, component, or process meets specified requirements.",
+      "C": "The speed of software development.",
+      "D": "The cost of software maintenance."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why can't testing prove that there are no defects in software?",
+    "options": {
+      "A": "Testing is only designed to show the presence of defects, not their absence.",
+      "B": "Testing always misses critical issues.",
+      "C": "Testing only covers a small portion of the software's functionality.",
+      "D": "Testing is unreliable and should not be used."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is considered the foundation for measuring software quality?",
+    "options": {
+      "A": "Development tools.",
+      "B": "Software requirements.",
+      "C": "User feedback.",
+      "D": "Code reviews."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following best describes the relationship between faults and failures in software?",
+    "options": {
+      "A": "A failure is the root cause of all faults.",
+      "B": "A fault is a potential cause of a failure, but not all faults result in failures.",
+      "C": "Faults and failures are the same and can be used interchangeably.",
+      "D": "A failure always occurs before a fault is identified."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the recommended duration for a review meeting?",
+    "options": {
+      "A": "Less than one hour.",
+      "B": "Less than two hours.",
+      "C": "Between 2 and 3 hours.",
+      "D": "As long as needed to cover all topics."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "True or False: Removing X% of faults always results in an X% improvement in reliability.",
+    "options": {
+      "A": "True.",
+      "B": "False."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What does a lack of conformance to software requirements indicate?",
+    "options": {
+      "A": "The software is user-friendly.",
+      "B": "The software is incomplete.",
+      "C": "The software lacks quality.",
+      "D": "The software is innovative."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How should you pose your written comments during a review?",
+    "options": {
+      "A": "As direct orders.",
+      "B": "As questions.",
+      "C": "As personal opinions.",
+      "D": "As suggestions."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which statement best describes a challenge in specifying software quality attributes?",
+    "options": {
+      "A": "Quality attributes are universally understood and applied.",
+      "B": "All quality attributes are easy to quantify.",
+      "C": "Some quality attributes are difficult to specify due to their abstract nature.",
+      "D": "Quality attributes have no impact on software performance."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the consequence if software development criteria specified in standards are not met?",
+    "options": {
+      "A": "The software will be more secure.",
+      "B": "Lack of software quality is likely to result.",
+      "C": "The software will perform faster.",
+      "D": "The software will meet user expectations."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the role of the recorder in the review meeting?",
+    "options": {
+      "A": "To lead the review meeting.",
+      "B": "To develop the product being reviewed.",
+      "C": "To record (in writing) all important issues raised during the review.",
+      "D": "To review the product and make notes."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How does Software Quality Assurance (SQA) contribute to customer satisfaction?",
+    "options": {
+      "A": "By increasing the cost of the software.",
+      "B": "By reducing software features.",
+      "C": "By ensuring higher reliability in the software.",
+      "D": "By delaying the release of the software."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What happens if software conforms to its explicit requirements but fails to meet its implicit requirements?",
+    "options": {
+      "A": "Software quality is considered excellent.",
+      "B": "Software meets all user expectations.",
+      "C": "Software quality is considered questionable.",
+      "D": "Software becomes more adaptable."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the best course of action if the product is accepted without further modification?",
+    "options": {
+      "A": "Schedule another review to confirm the decision.",
+      "B": "Move forward with the product's next phase.",
+      "C": "Reevaluate the product to ensure no errors were missed.",
+      "D": "Delay the sign-off until all team members have reviewed the product again."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What are implicit requirements in software development?",
+    "options": {
+      "A": "Requirements that are always explicitly documented.",
+      "B": "Requirements that pertain only to the software interface.",
+      "C": "Requirements that are irrelevant to software quality.",
+      "D": "Requirements that are assumed and often go unmentioned."
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What does it mean to control quality in a software project?",
+    "options": {
+      "A": "Ignoring procedures to save time.",
+      "B": "Ensuring that appropriate procedures are followed for each project.",
+      "C": "Letting the development team decide the best practices.",
+      "D": "Only focusing on testing."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary goal of review reporting and recordkeeping?",
+    "options": {
+      "A": "To keep track of the budget.",
+      "B": "To document the review process and ensure that issues are identified and addressed.",
+      "C": "To promote the product to potential customers.",
+      "D": "To create a training manual for new employees."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the fundamental purpose of quality reviews?",
+    "options": {
+      "A": "To validate the quality of a product or process.",
+      "B": "To increase project costs.",
+      "C": "To replace the need for testing.",
+      "D": "To reduce project duration."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Does the presence of a fault in the software always lead to a failure?",
+    "options": {
+      "A": "Yes, faults always cause failures.",
+      "B": "Yes, but only in large software systems.",
+      "C": "No, the presence of a fault doesn’t necessarily imply the occurrence of a failure.",
+      "D": "No, faults only cause failures in certain programming languages."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is one possible outcome if severe errors are found during the review?",
+    "options": {
+      "A": "The product is accepted without further modification.",
+      "B": "The product is accepted provisionally with minor corrections.",
+      "C": "The product is put on hold indefinitely.",
+      "D": "The product is rejected and another review is scheduled after corrections."
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is one of the primary advantages of implementing Software Quality Assurance (SQA)?",
+    "options": {
+      "A": "Increased complexity in the development process.",
+      "B": "Software will have fewer latent defects.",
+      "C": "Longer development times.",
+      "D": "Increased need for manual testing."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What key information should be included in a Review Summary Report?",
+    "options": {
+      "A": "The software's release date.",
+      "B": "The tools used for the review.",
+      "C": "What was reviewed, who reviewed it, and the findings and conclusions.",
+      "D": "The estimated cost of corrections."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why is Software Quality Assurance (SQA) challenging to implement in small organizations?",
+    "options": {
+      "A": "Because it requires advanced technology.",
+      "B": "Because there is a lack of available resources to perform necessary activities.",
+      "C": "Because it is only useful in large organizations.",
+      "D": "Because it requires a large team of experts."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is enforcing standards important in software development?",
+    "options": {
+      "A": "It controls change and ensures consistency during software development and maintenance.",
+      "B": "It eliminates the need for testing.",
+      "C": "It increases development costs.",
+      "D": "It allows developers to bypass best practices."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which statement is correct about software reliability improvements?",
+    "options": {
+      "A": "Removing any faults will result in a proportional improvement in reliability.",
+      "B": "Software reliability improves only when all faults are removed.",
+      "C": "Removing faults in the most critical areas is more important than the quantity of faults removed.",
+      "D": "A 60% fault removal always results in a 60% reliability improvement."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the first step in ensuring quality in a software product according to the three-prong approach?",
+    "options": {
+      "A": "Conducting user testing.",
+      "B": "Hiring external consultants.",
+      "C": "Developing the software.",
+      "D": "Establishing organization-wide policies, procedures, and standards."
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What does the simple definition of software quality imply?",
+    "options": {
+      "A": "Software functions without bugs.",
+      "B": "Software meets its specifications.",
+      "C": "Software is user-friendly.",
+      "D": "Software is efficient."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the effect of SQA on the overall life cycle cost of software?",
+    "options": {
+      "A": "It increases the overall life cycle cost.",
+      "B": "It has no effect on the life cycle cost.",
+      "C": "It only affects the initial development cost.",
+      "D": "It reduces the overall life cycle cost of software."
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What should you do if you cannot prepare for a review?",
+    "options": {
+      "A": "Annotate the hardcopy of the material.",
+      "B": "Inform the review leader.",
+      "C": "Skip the review entirely.",
+      "D": "Focus on issues of style."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What role can external entities play in ensuring software quality?",
+    "options": {
+      "A": "They can be contracted to verify that an organization is standard-compliant.",
+      "B": "They can replace the internal quality assurance team.",
+      "C": "They can write the software code.",
+      "D": "They can disregard existing standards."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What must all attendees of the Formal Technical Review (FTR) do at the end of the review meeting?",
+    "options": {
+      "A": "Provide feedback anonymously.",
+      "B": "Make a decision regarding the product.",
+      "C": "Write a detailed report on the product's quality.",
+      "D": "Suggest new features for the product."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the purpose of applying technical methods during software development?",
+    "options": {
+      "A": "To reduce development costs.",
+      "B": "To help the analyst achieve a high-quality specification and design.",
+      "C": "To minimize user involvement.",
+      "D": "To automate the coding process."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What do specified standards define in software development?",
+    "options": {
+      "A": "A set of testing procedures.",
+      "B": "A guide for software design.",
+      "C": "Development criteria that guide software engineering.",
+      "D": "The user interface layout."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What does it mean to accept the product provisionally during the review?",
+    "options": {
+      "A": "The product is accepted, but only with significant rework.",
+      "B": "The product is accepted, but minor corrections are needed without requiring further reviews.",
+      "C": "The product is accepted without any corrections.",
+      "D": "The product is rejected due to major errors."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the definition of software reliability?",
+    "options": {
+      "A": "Probability of failure during installation.",
+      "B": "Probability of perfect performance in any environment.",
+      "C": "Probability of failure during development.",
+      "D": "Probability of failure-free operation for a specified time in a specified environment."
+    },
+    "answer": "D"
+  },
+  {
+    "question": "How is measurement used in software quality assurance?",
+    "options": {
+      "A": "To track software quality and assess the effectiveness of methodological and procedural changes.",
+      "B": "To reduce the number of developers needed.",
+      "C": "To replace testing with automated tools.",
+      "D": "To increase the speed of code writing."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of a Review Issues List?",
+    "options": {
+      "A": "To identify and track problem areas within the product.",
+      "B": "To provide a list of successful features in the product.",
+      "C": "To replace the review summary report.",
+      "D": "To document the overall project timeline."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main objective of conducting formal technical reviews?",
+    "options": {
+      "A": "To increase team bonding.",
+      "B": "To speed up the development process.",
+      "C": "To uncover quality problems.",
+      "D": "To train new developers."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following standards might be used to ensure software quality?",
+    "options": {
+      "A": "ISO 9000-3.",
+      "B": "TCP/IP standards.",
+      "C": "HTML5 standards.",
+      "D": "CSS standards."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What must be done with organization-wide policies, procedures, and standards to make them applicable to specific projects?",
+    "options": {
+      "A": "They must be discarded.",
+      "B": "They must be completely rewritten.",
+      "C": "They must be tailored to fit the specific project.",
+      "D": "They must be ignored."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is a software fault?",
+    "options": {
+      "A": "A hardware malfunction.",
+      "B": "A static software characteristic that can cause a failure.",
+      "C": "A new feature in the software.",
+      "D": "A network issue affecting the software."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What does a software failure correspond to?",
+    "options": {
+      "A": "The presence of unused code.",
+      "B": "A missing feature in the software.",
+      "C": "A delay in the software release.",
+      "D": "Erroneous or unexpected runtime behavior observed by a user."
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What does the tension between software quality attributes like efficiency and reliability suggest?",
+    "options": {
+      "A": "Software can be both efficient and reliable without compromise.",
+      "B": "Improving one attribute may negatively impact another.",
+      "C": "All quality attributes can be maximized simultaneously.",
+      "D": "Software development does not require trade-offs."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is a sign-off in the context of the review meeting?",
+    "options": {
+      "A": "A final report summarizing the review.",
+      "B": "An approval process that requires the manager's signature.",
+      "C": "A document indicating participation and concurrence with the review team’s findings.",
+      "D": "A record of all the errors found during the review."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How much time should each person spend on advance preparation for the review meeting?",
+    "options": {
+      "A": "No more than 30 minutes.",
+      "B": "No more than 1 hour.",
+      "C": "No more than 2 hours.",
+      "D": "No specific time limit."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What impact does SQA have on maintenance costs?",
+    "options": {
+      "A": "SQA increases maintenance costs.",
+      "B": "SQA has no impact on maintenance costs.",
+      "C": "SQA can reduce maintenance costs.",
+      "D": "SQA only affects development costs."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What should you do after skimming the product material?",
+    "options": {
+      "A": "Read the product material thoroughly and annotate a hardcopy.",
+      "B": "Skip to the review meeting.",
+      "C": "Focus solely on style issues.",
+      "D": "Discuss the material with other reviewers before making notes."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When are quality reviews typically applied?",
+    "options": {
+      "A": "Only at the beginning of a project.",
+      "B": "During and/or at the end of each life cycle phase.",
+      "C": "Only after the product is released.",
+      "D": "Only during the design phase."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why do standards exist in the context of software quality assurance?",
+    "options": {
+      "A": "To limit innovation in software development.",
+      "B": "To make software development more expensive.",
+      "C": "To confuse the development team.",
+      "D": "To help an organization draft an appropriate software quality assurance plan."
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is a benefit of Quality Assurance (QA)?",
+    "options": {
+      "a": "It delays the project.",
+      "b": "It reduces the rate of products that do not qualify for shipment.",
+      "c": "It only focuses on the final product.",
+      "d": "It increases overall costs."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What is the primary objective of spike testing?",
+    "options": {
+      "a": "To check the system's ability to handle gradual increases in load.",
+      "b": "To test the system's response to a sudden burst of load.",
+      "c": "To evaluate the system's performance under normal conditions.",
+      "d": "To measure the system's load handling over a long period."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Who is typically responsible for carrying out system testing?",
+    "options": {
+      "A": "Developers.",
+      "B": "End-users.",
+      "C": "Specialist testers or independent testers.",
+      "D": "Project managers."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the purpose of using drivers in bottom-up integration testing?",
+    "options": {
+      "a": "To simulate lower-level modules.",
+      "b": "To replace fully developed modules.",
+      "c": "To simulate higher-level modules that are not yet ready.",
+      "d": "To perform automated testing."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "What is the primary purpose of validation in software development?",
+    "options": {
+      "a": "To ensure code is error-free.",
+      "b": "To evaluate a system or component during or at the end of the development process.",
+      "c": "To check coding standards.",
+      "d": "To verify user documentation."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What is the primary goal of system testing according to the IEEE definition?",
+    "options": {
+      "A": "To ensure the system meets the specified requirements",
+      "B": "To validate individual components of the system",
+      "C": "To test the system under normal operating conditions",
+      "D": "To review and verify the documentation of the system"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main objective of bottom-up integration testing?",
+    "options": {
+      "a": "To validate the functionality of high-level modules first.",
+      "b": "To ensure that the system works as intended from the bottom up.",
+      "c": "To test user interfaces first.",
+      "d": "To minimize the use of test stubs."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What must be ensured when performing Re-testing?",
+    "options": {
+      "A": "Using different inputs and data than the original test.",
+      "B": "Executing the test exactly the same way as the first time.",
+      "C": "Ignoring the original test environment.",
+      "D": "Only testing new features."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "At what phase of the testing process is installation testing typically performed?",
+    "options": {
+      "A": "At the beginning of the testing cycle.",
+      "B": "In the middle of development.",
+      "C": "During the last phase before the end user's first interaction with the product.",
+      "D": "After the product is released."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What types of requirements should system testing investigate?",
+    "options": {
+      "A": "Only functional requirements.",
+      "B": "Only non-functional requirements.",
+      "C": "Both functional and non-functional requirements.",
+      "D": "Only performance-related requirements."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "When is Acceptance Testing typically conducted?",
+    "options": {
+      "A": "Before system testing.",
+      "B": "After all or most defects have been corrected in the system test.",
+      "C": "During the design phase.",
+      "D": "Continuously throughout the development process."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Who typically executes a system test in a controlled environment?",
+    "options": {
+      "A": "End-users",
+      "B": "External auditors",
+      "C": "Development organization",
+      "D": "Quality Assurance department"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the goal of Unit Testing?",
+    "options": {
+      "a": "To check the user experience.",
+      "b": "To ensure that code meets its specification before integration.",
+      "c": "To verify system requirements.",
+      "d": "To validate end-to-end functionality."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What is the relationship between integration testing and unit testing?",
+    "options": {
+      "a": "Integration testing is performed before unit testing.",
+      "b": "Integration testing is the same as unit testing.",
+      "c": "Integration testing follows unit testing to test combined components.",
+      "d": "Integration testing only tests user interfaces."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "When dealing with incomplete or undocumented requirements during system testing, testers should:",
+    "options": {
+      "A": "Ignore the missing requirements and proceed with available information.",
+      "B": "Attempt to complete the requirements with assumptions and best guesses.",
+      "C": "Document the issues and work with stakeholders to clarify and complete the requirements.",
+      "D": "Focus only on documented requirements and avoid testing incomplete ones."
+    },
+    "answer": "C"
+  }
+]
